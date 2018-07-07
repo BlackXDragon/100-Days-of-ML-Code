@@ -8,6 +8,6 @@ Challenge to do some ML exercise everyday for 100 days
 **Proof of work:** File: "Analysis Forest Cover Type - commit 1"
 <br><br>
 ## Day 2: July 7, 2018:
-**Work done:** I have trained a KNN on the dataset.<br>
+**Work done:** I have trained a KNN on the dataset. I also finished the Case Study in the Machine Learning skill track on datacamp.com<br>
 **Thoughts:** Training a model on data with high dimensions surely takes a lot of time.<br>
 **Proof of work:** File: "Analysis Forest Cover Type - commit 2"

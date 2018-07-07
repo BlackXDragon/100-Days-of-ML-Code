@@ -7,7 +7,7 @@ Challenge to do some ML exercise everyday for 100 days
 **Link to competition website:** [Forest Cover Type - kaggle] (https://www.kaggle.com/c/forest-cover-type-kernels-only)<br>
 **Proof of work:** File: "Analysis Forest Cover Type - commit 1"
 <br><br>
-## Day 1: July 7, 2018:
+## Day 2: July 7, 2018:
 **Work done:** I have trained a KNN on the dataset.<br>
 **Thoughts:** Training a model on data with high dimensions surely takes a lot of time.<br>
 **Proof of work:** File: "Analysis Forest Cover Type - commit 2"

@@ -11,3 +11,7 @@ Challenge to do some ML exercise everyday for 100 days
 **Work done:** I have trained a KNN on the dataset. I also finished the Case Study in the Machine Learning skill track on datacamp.com<br>
 **Thoughts:** Training a model on data with high dimensions surely takes a lot of time.<br>
 **Proof of work:** File: "Analysis Forest Cover Type - commit 2"
+<br><br>
+## Day 3: July 8, 2018:
+**Work done:** I finished the Deep Learning with Python course and started the NLP course on datacamp.com.<br>
+**Thoughts:** Keras seems to be a really easy way of building Neural Nets.<br>

@@ -16,7 +16,7 @@ Challenge to do some ML exercise everyday for 100 days
 **Work done:** I finished the Deep Learning with Python course and started the NLP course on datacamp.com.<br>
 **Thoughts:** Keras seems to be a really easy way of building Neural Nets.
 <br><br>
-## Day 3: July 8, 2018:
+## Day 4: July 9, 2018:
 **Work done:** Started the deep learning course on Coursera (deeplearning.ai) by Andrew Ng<br>
 **Thoughts:** I certainly love deep learning and I seem to be really good at it.<br>
 **Link:** [DeepLearning.AI - Andrew Ng - Coursera](https://www.deeplearning.ai/)

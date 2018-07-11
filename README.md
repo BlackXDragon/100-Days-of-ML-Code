@@ -20,3 +20,7 @@ Challenge to do some ML exercise everyday for 100 days
 **Work done:** Started the deep learning course on Coursera (deeplearning.ai) by Andrew Ng<br>
 **Thoughts:** I certainly love deep learning and I seem to be really good at it.<br>
 **Link:** [DeepLearning.AI - Andrew Ng - Coursera](https://www.deeplearning.ai/)
+<br><br>
+## Day 4: July 9, 2018:
+**Work done:** Finished half of week 2 of the course.<br>
+**Thoughts:** Neural networks are easier to understand than a lot of other ML conepts.<br>

@@ -32,3 +32,7 @@ Challenge to do some ML exercise everyday for 100 days
 ## Day 7: July 12, 2018:
 **Work done:** Did the programming excersizes of week 2 of the course and aced all of them.<br>
 **Thoughts:** I did better than I expected.<br>
+<br><br>
+## Day 8: July 13, 2018:
+**Work done:** Finished Week 3 videos.<br>
+**Thoughts:** Sad that I'm not able to access the assignments.<br>
